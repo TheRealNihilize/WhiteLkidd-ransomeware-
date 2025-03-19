@@ -182,7 +182,7 @@ target_directory = os.getcwd()  # Aktuální adresář (můžeš změnit na jin�
 
 # Vytvoření hlavního okna
 root = tk.Tk()
-root.title("Fake Ransomware")
+root.title("WhiteLkidd Ransomware")
 root.geometry("500x400")
 
 # Taby
